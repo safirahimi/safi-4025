@@ -24,7 +24,7 @@ I'm a software engineer and web developer who is passionate about making open-so
     - Java
   </div>
   <div align='right'>
-    <img width='300px' height='400px' src='https://github.com/safi-4025/files/blob/main/safi1.jpg'>
+    <img width='300px' height='400px' src=''>
   </div>
  </div>
   
