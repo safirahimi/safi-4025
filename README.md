@@ -2,8 +2,9 @@
 
 I'm a software engineer and web developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
-<div display='flex'>
-  <div width='50%'>
+<div>
+  <div align='left'>
+    
     - 🔭 I’m currently working on my out projects
     - 🌱 I’m currently learning React and Django
     - 👯 I’m looking to collaborate with new developers
@@ -22,8 +23,8 @@ I'm a software engineer and web developer who is passionate about making open-so
     - MySql
     - Java
   </div>
-  <div width='50%'>
-    <img width='100%' src='https://github.com/safi-4025/files/blob/main/safi1.jpg'>
+  <div align='right'>
+    <img width='200px' height='400px' src='https://github.com/safi-4025/files/blob/main/safi1.jpg'>
   </div>
  </div>
   
