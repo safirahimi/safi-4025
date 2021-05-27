@@ -23,10 +23,6 @@ I'm a software engineer and web developer who is passionate about making open-so
     - MySql
     - Java
   </div>
-  <div align='right'>
-    <img width='300px' height='400px' src=''>
-  </div>
- </div>
   
 ## Find me around the web 🌎: 
 <a href="https://github.com/safi-4025">
