@@ -4,11 +4,11 @@ I'm a software engineer and web developer who is passionate about making open-so
 
 <div display='flex'>
   <div width='50%'>
-  - 🔭 I’m currently working on my out projects
-  - 🌱 I’m currently learning React and Django
-  - 👯 I’m looking to collaborate with new developers
-  - 💬 Ask me about new technologies 😜
-  - ⚡ Fun fact: coding is love 🥰
+    - 🔭 I’m currently working on my out projects
+    - 🌱 I’m currently learning React and Django
+    - 👯 I’m looking to collaborate with new developers
+    - 💬 Ask me about new technologies 😜
+    - ⚡ Fun fact: coding is love 🥰
 
   ## Some technologies I enjoy working with include:
     - Html
