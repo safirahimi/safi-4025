@@ -36,7 +36,7 @@ I'm a software engineer and web developer who is passionate about making open-so
 [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.github.com/safi-4025)
 [![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng_safi1)
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://safirahimi40@gmail.com)
-[![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)]()
+[![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)](https://dev.to/safi4025)
 <table>
    
    <table width="100%" >
