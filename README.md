@@ -1,4 +1,5 @@
-<h1 align='center'> Hello there, I'm Safiullah Rahimi 👋 👨‍💻 </h1>
+<!-- <h1 align='center'> Hello there, I'm Safiullah Rahimi 👋 👨‍💻 </h1> -->
+# Hi there, I'm <a href = "https://github.com/Nelofarzabi" style="text-decoration: none;"> Nelofar Zabi </a>👋
 
 I'm a software engineer and web developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
     
@@ -7,15 +8,21 @@ I'm a software engineer and web developer who is passionate about making open-so
  - 👯 I’m looking to collaborate with new developers
  - 💬 Ask me about new technologies 😜
  - ⚡ Fun fact: coding is love 🥰
+ <hr>
 
-### Some technologies I enjoy working with include:
- - Html
- - Css
- - Bootstrap
- - Tailwind-css
- - JavaScript
- - React
- - Python
- - Django
- - MySql
- - Java
+## I build with...
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px; width:180px;">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; ">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px; width:30px;">
+<!--   <img src="./includes/java.svg" alt="java" style="vertical-align:top; margin:4px; width:30px;"> -->
+<!--   <img src="./includes/css.svg" alt="css" style="vertical-align:top; margin:4px; width:30px;"> -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px; width:30px;">
+<!-- <img src="./includes/bootstrap.svg" alt="bootsrap" style="vertical-align:top; margin:4px; width:30px;"> -->
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px; width:30px;">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px; width:30px;">
+  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
+    <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
+    <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
+    <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
