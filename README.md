@@ -44,10 +44,10 @@ I'm a software engineer and web developer who is passionate about making open-so
    <table width="100%">
    <tr>
       <td>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelofarZabi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0,52fa5a21,4dfcff21,c64dff21" />
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safi-4025&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0,52fa5a21,4dfcff21,c64dff21" />
       </td>
       <td>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight" />      
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safi-4025&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight" />      
       </td>
    
    </tr>
