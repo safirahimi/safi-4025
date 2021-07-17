@@ -41,7 +41,7 @@ I'm a software engineer and web developer who is passionate about making open-so
 [![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)]()
 <table>
    
-   <table width="100%" style ="margin-left :12px;">
+   <table width="100%" >
    <tr>
       <td>
          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safi-4025&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0,52fa5a21,4dfcff21,c64dff21" />
@@ -51,6 +51,8 @@ I'm a software engineer and web developer who is passionate about making open-so
       </td>
    
    </tr>
+     ## My Github Data...
+       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=synthwave)](https://git.io/streak-stats)
 
    
     
