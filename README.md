@@ -54,13 +54,7 @@ I'm a software engineer and web developer who is passionate about making open-so
       <hr>
     
   ## My Github Data...
-     <table width="100%" >
-       <tr>
-       <td>
-         <img height="180em" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=buefy-dark)](https://git.io/streak-stats)" />
-      </td>
-    </table>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=buefy-dark)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=buefy-dark)](https://git.io/streak-stats)
     <hr><hr>
 <h1 align='center'>  Check Out My Repos 👨‍💻 </h1>
     
