@@ -29,6 +29,7 @@ I'm a software engineer and web developer who is passionate about making open-so
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg>
     </p>
     <hr>
+    
     ## Where to find me...
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/safi-4025)
@@ -38,6 +39,19 @@ I'm a software engineer and web developer who is passionate about making open-so
 [![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)]()
 [![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)]()
+<table>
+   
+   <table width="100%">
+   <tr>
+      <td>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelofarZabi&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0,52fa5a21,4dfcff21,c64dff21" />
+      </td>
+      <td>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelofarZabi&show_icons=true&hide_border=true&layout=compact&langs_count=8&bg_color=0,52fa5a21,4dfcff21,c64dff21&theme=tokyonight" />      
+      </td>
+   
+   </tr>
+
    
     
     
