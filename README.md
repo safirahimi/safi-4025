@@ -27,6 +27,8 @@ I'm a software engineer and web developer who is passionate about making open-so
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg>
-     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/taliwind.svg>
-     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/django.svg>
+     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/ruby.svg>
+    <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/flutter.svg>
+    
+    
     <hr>
