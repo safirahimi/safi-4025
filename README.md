@@ -51,9 +51,10 @@ I'm a software engineer and web developer who is passionate about making open-so
       </td>
    </tr>
        </table>
+    <hr>
     
   ## My Github Data...
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=omni)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=blux)](https://git.io/streak-stats)
 
    
     
