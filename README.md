@@ -56,12 +56,12 @@ I'm a software engineer and web developer who is passionate about making open-so
   ## My Github Data...
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=buefy-dark)](https://git.io/streak-stats)
     
- [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+ [![Contributors][contributors-shield]]
+[![Forks][forks-shield]]
+[![Stargazers][stars-shield]]
+[![Issues][issues-shield]]
+[![MIT License][license-shield]]
+[![LinkedIn][linkedin-shield]]
     
    
 
