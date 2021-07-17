@@ -55,8 +55,7 @@ I'm a software engineer and web developer who is passionate about making open-so
     
   ## My Github Data...
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=buefy-dark)](https://git.io/streak-stats)
-   
-    <h1 align='center'> Hello there, I'm Safiullah Rahimi 👋 👨‍💻 </h1>
+<h1 align='center'> Hello there, I'm Safiullah Rahimi 👋 👨‍💻 </h1>
     
 
     
