@@ -1,5 +1,5 @@
 <!-- <h1 align='center'> Hello there, I'm Safiullah Rahimi 👋 👨‍💻 </h1> -->
-# Hi there, I'm <a href = "https://github.com/Safi-4025" style="text-decoration: none;"> Safiullah Rahimi </a>👋
+# Hello there, I'm <a href = "https://github.com/Safi-4025" style="text-decoration: none; align='center'"> Safiullah Rahimi </a>👋
 
 I'm a software engineer and web developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
     
@@ -26,4 +26,5 @@ I'm a software engineer and web developer who is passionate about making open-so
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
+      <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg>
     <hr>
