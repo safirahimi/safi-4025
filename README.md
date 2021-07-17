@@ -22,7 +22,6 @@ I'm a software engineer and web developer who is passionate about making open-so
 <!-- <img src="./includes/bootstrap.svg" alt="bootsrap" style="vertical-align:top; margin:4px; width:30px;"> -->
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px; width:30px;">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px; width:30px;">
-
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg>
