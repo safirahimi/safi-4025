@@ -54,6 +54,9 @@ I'm a software engineer and web developer who is passionate about making open-so
       <hr>
     
   ## My Github Data...
+  ##291 Contributions in the Year 2021
+  ##21 Public Repositories
+  ##7 Private Repositories
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safi-4025&theme=buefy-dark)](https://git.io/streak-stats)
     <hr><hr>
 <h1 align='center'>  Check Out My Repos 👨‍💻 </h1>
