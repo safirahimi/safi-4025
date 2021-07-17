@@ -22,10 +22,10 @@ I'm a software engineer and web developer who is passionate about making open-so
 <!-- <img src="./includes/bootstrap.svg" alt="bootsrap" style="vertical-align:top; margin:4px; width:30px;"> -->
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px; width:30px;">
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px; width:30px;">
-  <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg>
+<!--   <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg> -->
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg>
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg>
-    <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg>
+<!--     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg> -->
     <img src=https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg>
     </p>
     <hr>
@@ -33,11 +33,11 @@ I'm a software engineer and web developer who is passionate about making open-so
   ## Where to find me...
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/safi-4025)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SafiRahimi7)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/safiullah-rahimi)
+[![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.github.com/safi-4025)
+[![Instagram](https://img.shields.io/badge/instagram-%230077c6.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eng_safi1)
+[![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white)](https://safirahimi40@gmail.com)
 [![Devcommunity](https://img.shields.io/badge/Devcommunity-%230077B5.svg?&style=for-the-badge&logo=Devcommunity&logoColor=white)]()
 <table>
    
